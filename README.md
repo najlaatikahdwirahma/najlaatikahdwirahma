@@ -28,7 +28,7 @@ I'm open to collaborating on Data Science projects and contributing to open sour
 
 You can reach me through the following channels:
 
-- GitHub: [najlaatikahdwirahma](https://github.com/najlaatikahdwirahma)
+- GitHub: [Najla Atikah Dwirahma](https://github.com/najlaatikahdwirahma)
 - LinkedIn: [Najla Atikah Dwirahma](https://www.linkedin.com/in/najlaatikahdwirahma)
 - Email: [najla.dwirahma@gmail.com]
 
